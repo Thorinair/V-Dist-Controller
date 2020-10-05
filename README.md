@@ -1,4 +1,3 @@
-# V-Dist Controller
 ![alt text](https://dl.thorinair.net/MLP/vdistcontroller_b.png "V-Dist Controller")
 
 V-Dist Controller is a simple MIDI hardware counterpart to Violin Melody's [V-Dist Classic](https://violinmelody.net/plugins/vdist/) single-knob VST distortion effect.
